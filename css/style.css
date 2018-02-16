@@ -1,7 +1,7 @@
 body{ 
 	font: normal 13px/20px Arial, Helvetica, sans-serif; word-wrap:break-word;
 	color: #eee;
-    height: 100vh;
+    height: 100%;
     background-color: #FAACA8;
     background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
     background-size: cover;
